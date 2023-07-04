@@ -30,7 +30,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# Hello Microverse <a name="about-project"></a>
+# Hello Microverse <a name="about-project">HelloMicroverse</a>
 
 **Hello Microverse** is a HTML/Css project that display a "Hello Microverse" text.
 
