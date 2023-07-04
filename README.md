@@ -32,7 +32,7 @@
 
 # Hello Microverse <a name="about-project">HelloMicroverse</a>
 
-**Hello Microverse** is a HTML/Css project that display a "Hello Microverse" text.
+**Hello Microverse** is a HTML/Css project that display a colorfull "Hello Microverse" text.
 
 ## 🛠 Built With <a name="built-with">Visual Studio</a>
 
